@@ -1,0 +1,1 @@
+Compatible with ArcGIS JSAPI version 3.3 and higher. Features the dojo AMD loader.
